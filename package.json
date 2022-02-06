@@ -1,5 +1,27 @@
 {
+  "name": "static-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
+    "fs": "0.0.1-security",
     "inquirer": "^8.2.0"
-  }
+  },
+  "devDependencies": {
+    "jest": "^27.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geneviealba/readme-make-simple.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Geneviealba/readme-make-simple/issues"
+  },
+  "homepage": "https://github.com/Geneviealba/readme-make-simple#readme",
+  "description": ""
 }
