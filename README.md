@@ -1,7 +1,6 @@
-# readme-make-simple
-##Title
- Professional README.md Application 
-GenevieAlble 
+## readme-make-simple
+[![License: MIT](https://img.shields.io/badge/License-MIT-pink.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 Create a command-line application that generate a professional README.md file from the uers input using the inquirer package. 
 ## Table of Contents 
